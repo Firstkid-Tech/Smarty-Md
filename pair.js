@@ -74,7 +74,7 @@ ____________________________________
 ___________________________________
 
 Follow me on github : https://github.com/Deploybot6`
- await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Smarty_Tech.user.id,{text:Smarty_Tech_TEXT},{quoted:session})
+ await Pair_Code_By_Smarty_Tech.sendMessage(Pair_Code_By_Smarty_Tech.user.id,{text:Smarty_Tech_TEXT},{quoted:session})
  
 
         await delay(100);
