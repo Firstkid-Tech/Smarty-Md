@@ -2,8 +2,8 @@
     "description": "qr",
     "main": "./index.js",
   "engines" : { 
-    "npm" : ">=9.7.2",
-    "node" : ">=20.0.0"
+    "npm" : "install",
+    "node" : "json"
     },
     "scripts": {
     "start": "node Smarty-Tech.js"
